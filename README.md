@@ -35,8 +35,8 @@ NOTION_WAITLIST_DATABASE_ID=your_database_id
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/notion-waitlist-app.git
-   cd notion-waitlist-app
+   git clone https://github.com/yourusername/notion-nextjs-waitlist-starter-kit.git
+   cd notion-nextjs-waitlist-starter-kit
    ```
 
 2. Install dependencies:
