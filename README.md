@@ -6,7 +6,7 @@ This is a modern waitlist application built with Next.js App Router, TypeScript,
 
 ## Features
 
-- 🚀 Built with Next.js 14, App Router and TypeScript
+- 🚀 Built with Next.js 15, App Router and TypeScript
 - 💅 Styled with Tailwind CSS & ShadCN UI
 - 🔄 Notion API integration
 - 📝 Form validation with Zod and React Hook Form
